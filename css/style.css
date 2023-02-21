@@ -171,7 +171,7 @@ header .navbar ul li a:hover{
     justify-content: center;
     flex-flow: column;
     padding:0 15rem;
-    background: url(./images/Capture.jpg) repeat #fff;
+    background: url(../images/Capture.jpg) repeat #fff;
 
 }
 
