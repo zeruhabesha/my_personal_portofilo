@@ -534,10 +534,10 @@ input[type=text] {
        left:-120%;
    }
  .education .box-container .box p{
-    font-size: 40px;
+    font-size: 300%;
  }
  .education .box-container .box h3{
-    font-size: 50px;
+    font-size:  400%;
  }
    #menu{
        display: block;
