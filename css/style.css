@@ -562,10 +562,10 @@ input[type=text] {
         width: 100vw;
     }
  .education .box-container .box p{
-    font-size: 300%;
+    font-size: 30px;
  }
  .education .box-container .box h3{
-    font-size:  400%;
+    font-size:  40px;
  }
     .heading{
         margin:0 3rem;
