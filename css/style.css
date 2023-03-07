@@ -533,12 +533,7 @@ input[type=text] {
    header{
        left:-120%;
    }
- .education .box-container .box p{
-    font-size: 300%;
- }
- .education .box-container .box h3{
-    font-size:  400%;
- }
+
    #menu{
        display: block;
    }
@@ -566,7 +561,12 @@ input[type=text] {
     header{
         width: 100vw;
     }
-
+ .education .box-container .box p{
+    font-size: 300%;
+ }
+ .education .box-container .box h3{
+    font-size:  400%;
+ }
     .heading{
         margin:0 3rem;
     }
