@@ -12,7 +12,7 @@
     box-sizing: border-box;
     text-decoration: none;
     outline: none; 
-	border:none;
+    border:none;
     text-transform: capitalize;
     transition: all .2s linear;
 }
@@ -333,7 +333,7 @@ header .navbar ul li a:hover{
     object-fit: cover;
 }
 input[type=text] {
-    width: 80%;
+    width: 100%;
     box-sizing: border-box;
     border: 2px solid rgb(53, 255, 97);
     border-radius: 4px;
@@ -353,7 +353,7 @@ input[type=text] {
     border: 2px solid #ffffff;
   } */
   input[type=email] {
-    width: 80%;
+    width: 100%;
     box-sizing: border-box;
     border: 2px solid rgb(53, 255, 97);
     border-radius: 4px;
@@ -373,7 +373,7 @@ input[type=text] {
     border: 2px solid #ffffff;
   } */
   textarea {
-    width: 80%;
+    width:100%;
     box-sizing: border-box;
     border: 2px solid rgb(53, 255, 97);
     border-radius: 4px;
