@@ -67,7 +67,6 @@ section{
 .btn i{
     padding:0 .5rem;
     font-size: 1.8rem;
-
 }
 
 .btn:hover{
@@ -534,9 +533,9 @@ input[type=text] {
    header{
        left:-120%;
    }
-	.box-container .box p{
-	font-size: 80%;
-	}
+.box-container .box p{
+   font-size: 100%;
+}
    #menu{
        display: block;
    }
