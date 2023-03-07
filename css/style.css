@@ -533,8 +533,8 @@ input[type=text] {
    header{
        left:-120%;
    }
-.box-container .box p{
-   font-size: 100%;
+.box p{
+   font-size: 5rem;
 }
    #menu{
        display: block;
