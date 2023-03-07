@@ -553,7 +553,12 @@ input[type=text] {
     html{
         font-size: 50%;
     }
- 
+ .education .box-container .box p{
+    font-size: 300%;
+ }
+ .education .box-container .box h3{
+    font-size:  400%;
+ }
  }
 
 @media (max-width:400px){
@@ -561,12 +566,7 @@ input[type=text] {
     header{
         width: 100vw;
     }
- .education .box-container .box p{
-    font-size: 30px;
- }
- .education .box-container .box h3{
-    font-size:  40px;
- }
+ 
     .heading{
         margin:0 3rem;
     }
