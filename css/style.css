@@ -533,12 +533,12 @@ input[type=text] {
    header{
        left:-120%;
    }
-.education .box-container .box p{
-    font-size: 30px;
-}
-	.education .box-container .box h3{
+ .education .box-container .box p{
     font-size: 40px;
-}
+ }
+ .education .box-container .box h3{
+    font-size: 50px;
+ }
    #menu{
        display: block;
    }
