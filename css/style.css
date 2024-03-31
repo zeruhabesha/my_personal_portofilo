@@ -165,14 +165,13 @@ header .navbar ul li a:hover{
     display: none;
 }
 
-.home{
+.home {
     display: flex;
     justify-content: center;
     flex-flow: column;
-    padding:0 15rem;
+    padding: 0 15rem;
     background: url(../images/Capture.jpg) repeat #fff;
-    /* width:100%; */
-
+    background-size: 100% 100%; /* Set background width to 100% */
 }
 
 .home h3{
