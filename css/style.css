@@ -476,7 +476,7 @@ input[type=text] {
 .tab {
     overflow: hidden;
     /*border: 1px solid var(--yellow);*/
-    background-color: #35ff61;
+    background-color: #42474e;
     
   }
   
@@ -486,17 +486,22 @@ input[type=text] {
     border: none;
     outline: none;
     cursor: pointer;
+    background: #42474e;
     padding: 14px 16px;
+    color: white;
     transition: 0.3s;
     font-size: 2vh;
-    border: 1vh solid #ffffff;
+    border: 1vh solid rgb(53, 255, 97);
 }
   .tab button:hover {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(53, 255, 97);
+    color: black;
   }
   
   .tab button.active {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(53, 255, 97);
+    color: black;
+
   }
   
   /* .tabcontent {
